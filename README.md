@@ -59,8 +59,3 @@ Sentiment analysis of Amazon Fine Food reviews involves classifying the sentimen
 
 Given a review, determine whether the review is positive (rating of 4 or 5) or negative (rating of 1 or 2).
 
-**Note:**
-
-You can further refine the formatting and styling of your document using Markdown features and CSS if needed.
-
-This revised formatting should help improve the readability and organization of your document.
