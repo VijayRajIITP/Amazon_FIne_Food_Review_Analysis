@@ -1,8 +1,11 @@
-# Amazon_FIne_Food_Review_Analysis
+# Amazon_Fine_Food_Review_Analysis
 
 Sentiment analysis of Amazon Fine Food reviews involves classifying the sentiment (positive, negative) expressed in the reviews.Sentiment analysis helps organizations understand how customers feel about their products, services, or brands based on customer reviews, surveys, and social media comments. It allows companies to gauge customer satisfaction and make data-driven improvements.
-Steps of Projects
+
+
+## Life Cycle Of Projects 
 1.Dataset : I downloaded Dataset from Kagggle. Here are the Link of Datasets 
+
 https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
 2.Data Preprocssing :
 .Tokenization: Split the text into individual words or tokens.
