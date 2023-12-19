@@ -27,6 +27,8 @@ Sentiment analysis of Amazon Fine Food reviews involves classifying the sentimen
 
 6. **Checking Accuracy:** Assess model performance, including precision and recall.
 
+7. **Deployemnet:** Leveraging Streamlit, I effectively deployed my model and conducted comprehensive testing on Amazon reviews sourced directly from the website
+
 **Dataset Explanation:**
 
 **Amazon Fine Food Reviews Analysis**
